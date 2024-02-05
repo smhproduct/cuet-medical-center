@@ -2,6 +2,20 @@
 
 This project showcases a demo web application designed and developed for the Chittagong University of Engineering & Technology (CUET) Medical Center as part of the "Software Engineering (sessional)" course. The primary objective was to implement an E-Booklet system for students, aiming to improve accessibility and streamline information delivery.
 
+## Contributors
+
+👤 **Mohammad Akbar Bin Shah**
+* LinkedIn: [@mohammad-akbar2603](https://www.linkedin.com/in/mohammad-akbar2603/)
+* GitHub: [@smhproduct](https://github.com/smhproduct)
+
+👤 **Arif Mohammad Asfe**
+* LinkedIn: [@arifasfe](https://www.linkedin.com/in/arifasfe/)
+* GitHub: [@arifasfe](https://github.com/arifasfe)
+
+👤 **Rajarshi Sen**
+* GitHub: [Rajarshi-sen24](https://github.com/Rajarshi-sen24)
+* LinkedIn: [@rajarshi-sen-5ab5b61bb](https://www.linkedin.com/in/rajarshi-sen-5ab5b61bb/)
+
 ## Technology Stack
 
 **Frontend:** ReactJS was chosen for building the frontend to provide a dynamic and intuitive user experience. This enabled features like:
